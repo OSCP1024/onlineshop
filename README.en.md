@@ -1,3 +1,0 @@
-# StrongShop
-
-123
